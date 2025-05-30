@@ -1,0 +1,49 @@
+body{
+    background-color: #85a1ed;
+}
+header{
+    background-color: white;
+}
+nav{
+    
+	background-color:white;
+	text-align: left;
+	font-size: 18;
+}
+nav ul{
+	list-style-type: none;
+	padding:0;
+    margin:0;
+    
+}
+nav li{
+	display: inline-block;
+	padding: 5px;
+
+}
+nav li a{
+	text-decoration: none;
+	
+}
+h1{
+	font: "Times new roman";
+    padding-top: 31px;
+    font-size: 46;
+	text-align: center;
+    
+}
+footer {
+	background-color: white;
+	text-align: center;
+    padding: 20px;
+}
+
+footer .contacts{
+	margin: 10px 0;
+	font-weight: bold;
+}
+
+footer a {
+	
+	text-decoration: none;
+}
